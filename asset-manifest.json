@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/barsh-crush-game/static/css/main.a7f4a44b.css",
+    "main.js": "/barsh-crush-game/static/js/main.1aed1a80.js",
+    "static/media/rachel.jpg": "/barsh-crush-game/static/media/rachel.651d029f2200fc1b3d1c.jpg",
+    "static/media/mor.jpg": "/barsh-crush-game/static/media/mor.eb00e75b4941191e7ac6.jpg",
+    "static/media/keren.jpeg": "/barsh-crush-game/static/media/keren.1a79e689b748a3a786aa.jpeg",
+    "static/media/zach.jpg": "/barsh-crush-game/static/media/zach.12adca3a2d2adc26f02a.jpg",
+    "static/media/niv.jpg": "/barsh-crush-game/static/media/niv.1980f94e9451d3aa2d9b.jpg",
+    "static/media/elie.jpg": "/barsh-crush-game/static/media/elie.be374ea32cef1421aff1.jpg",
+    "index.html": "/barsh-crush-game/index.html",
+    "main.a7f4a44b.css.map": "/barsh-crush-game/static/css/main.a7f4a44b.css.map",
+    "main.1aed1a80.js.map": "/barsh-crush-game/static/js/main.1aed1a80.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7f4a44b.css",
+    "static/js/main.1aed1a80.js"
+  ]
+}
