@@ -1,11 +1,11 @@
 import { useEffect, useState } from "react";
 import ScoreBoard from "./components/ScoreBoard";
-import zachCandy from './images/zach.jpg'
-import kerenCandy from './images/keren.jpeg'
-import morCandy from './images/mor.jpg'
-import nivCandy from './images/niv.jpg'
-import rachelCandy from './images/rachel.jpg'
-import elieCandy from './images/elie.jpg'
+import zachCandy from './images/blue-candy.png'
+import kerenCandy from './images/red-candy.png'
+import morCandy from './images/green-candy.png'
+import nivCandy from './images/orange-candy.png'
+import rachelCandy from './images/yellow-candy.png'
+import elieCandy from './images/purple-candy.png'
 import blank from './images/blank.jpg'
 import Heading from "./components/Heading";
 
