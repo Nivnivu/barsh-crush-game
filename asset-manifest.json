@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/barsh-crush-game/static/css/main.a7f4a44b.css",
-    "main.js": "/barsh-crush-game/static/js/main.1aed1a80.js",
-    "static/media/rachel.jpg": "/barsh-crush-game/static/media/rachel.651d029f2200fc1b3d1c.jpg",
-    "static/media/mor.jpg": "/barsh-crush-game/static/media/mor.eb00e75b4941191e7ac6.jpg",
-    "static/media/keren.jpeg": "/barsh-crush-game/static/media/keren.1a79e689b748a3a786aa.jpeg",
-    "static/media/zach.jpg": "/barsh-crush-game/static/media/zach.12adca3a2d2adc26f02a.jpg",
-    "static/media/niv.jpg": "/barsh-crush-game/static/media/niv.1980f94e9451d3aa2d9b.jpg",
-    "static/media/elie.jpg": "/barsh-crush-game/static/media/elie.be374ea32cef1421aff1.jpg",
+    "main.js": "/barsh-crush-game/static/js/main.5ebf9188.js",
+    "static/media/purple-candy.png": "/barsh-crush-game/static/media/purple-candy.ae25b8a55e061a50346f.png",
+    "static/media/blue-candy.png": "/barsh-crush-game/static/media/blue-candy.73120c156936a4206714.png",
+    "static/media/red-candy.png": "/barsh-crush-game/static/media/red-candy.3658b37c743115db2a9a.png",
+    "static/media/orange-candy.png": "/barsh-crush-game/static/media/orange-candy.f106b2cdd163575a7c68.png",
+    "static/media/yellow-candy.png": "/barsh-crush-game/static/media/yellow-candy.a3d87a9b362b5f969133.png",
+    "static/media/green-candy.png": "/barsh-crush-game/static/media/green-candy.599f70161bdb3cadac66.png",
     "index.html": "/barsh-crush-game/index.html",
     "main.a7f4a44b.css.map": "/barsh-crush-game/static/css/main.a7f4a44b.css.map",
-    "main.1aed1a80.js.map": "/barsh-crush-game/static/js/main.1aed1a80.js.map"
+    "main.5ebf9188.js.map": "/barsh-crush-game/static/js/main.5ebf9188.js.map"
   },
   "entrypoints": [
     "static/css/main.a7f4a44b.css",
-    "static/js/main.1aed1a80.js"
+    "static/js/main.5ebf9188.js"
   ]
 }
